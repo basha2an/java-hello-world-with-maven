@@ -4,7 +4,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>jb-hello-world-maven</artifactId>
     <packaging>jar</packaging>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>0.2.0</version>
 
     <!-- tag::joda[] -->
      <properties>
@@ -50,7 +50,7 @@
 
 
 <scm><developerConnection>scm:git:https://github.com/basha2an/java-hello-world-with-maven.git</developerConnection>
-  <tag>release-0.2.0</tag>
+  <tag>jb-hello-world-maven-0.2.0</tag>
   </scm>
 
 </project>
